@@ -23,10 +23,25 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe preprocessing to someone new to CSS?
+
+I would describe preprocessing as a way to make your code easier to read and write. I would explain that you can do the same amount of styling using a preprocessor using about 100 lines of code, as you can in 300 lines of regular CSS.
+
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+My favorite concept in preprocessing is the ability to nest your CSS. The concept that gives me the most trouble would be LESS functions.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+I would explain a variable as a piece of data that is set so that you can use it later, and it can be changed, often several times later on, depending on what type of variable you use.
+
 4. What is the purpose of using functions in code?
+
+The purpose of using functions in code would be to make your code more interactive without having to repeat yourself every time you need an action done. Instead of writing the same block of code over and over, you can just call the function.
+
+
 5. What is JSON data?
+
+JSON data is any of the following: Strings, booleans, objects, arrays, numbers. It is any type of data that can be passed into the value portion of an attribute:value pair.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -36,16 +51,16 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 Follow these steps to set up your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your Team Lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [ x] Create a forked copy of this project.
+- [ x] Add your Team Lead as collaborator on Github.
+- [ x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ x] Create a new branch: git checkout -b `<firstName-lastName>`.
 
 ### Task 2a:  Minimum Viable Product - Responsive Design
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [ ] Add a viewport meta tag to the head of your index.html page.
+* [ x] Add a viewport meta tag to the head of your index.html page.
 * [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
